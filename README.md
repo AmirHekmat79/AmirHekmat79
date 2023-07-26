@@ -1,5 +1,10 @@
 ### Hi there 👋
-My name is AmirHossein and I'm a Frontend developer who primarily works with modern Frontend Tools and libraries.🔥❤️💻
+My name is AmirHossein and I'm a Frontend developer who primarily works with modern Frontend Tools and libraries.
+I studied Computer Engineering at Shahrood university of technology and this made my way more clear and easy.
+I have experiences as a Frontend Developer in some corporations and I worked with my colleages in some projects.
+I still try to improve my skills and learn new features in Frontend Development such as modern libraries or frameworks.
+I enjoy designing and developing projects.
+🔥❤️💻
 <!--
 **AmirHekmat79/AmirHekmat79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
